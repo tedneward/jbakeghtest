@@ -6,8 +6,8 @@
     <atom:link href="http://jbake.org/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Tue, 13 Aug 2024 13:40:18 -0700</pubDate>
-    <lastBuildDate>Tue, 13 Aug 2024 13:40:18 -0700</lastBuildDate>
+    <pubDate>Tue, 13 Aug 2024 13:44:51 -0700</pubDate>
+    <lastBuildDate>Tue, 13 Aug 2024 13:44:51 -0700</lastBuildDate>
 
     <item>
       <title>Oliver&amp;#8217;s Post</title>
@@ -122,6 +122,8 @@ libero, ut vehicula lectus nunc ut lorem. Aliquam erat volutpat.&lt;/p&gt;
       <guid isPermaLink="false">blog/2013/first-post.html</guid>
       	<description>
 	
+Different post!
+
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel diam purus. Curabitur ut nisi lacus.&lt;/p&gt;
 
 &lt;ul&gt;
